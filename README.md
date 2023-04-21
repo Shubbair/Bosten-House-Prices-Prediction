@@ -12,4 +12,4 @@ the data about bosten house price features
 * Random Forest Regressor
 * XGBoost
 
-to read more about the data [here](https://www.kaggle.com/datasets/abhijithudayakumarthe-boston-housing-dataset)
+to read more about the data [here](https://www.kaggle.com/datasets/abhijithudayakumar/the-boston-housing-dataset)
